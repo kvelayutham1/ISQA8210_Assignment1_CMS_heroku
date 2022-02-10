@@ -1,2 +1,2 @@
-# ISQA8210_Assignment1_CMS_heroku
-Heroku version of CMS App
+# ISQA8210_Assignment1_CMS
+A1_Backup
